@@ -1,5 +1,8 @@
 # React Native Vietnam Meetup Wiki
-Updating...
+
+## Meetup 3
+
+[![Meetup 03](https://github.com/reactnativevietnam/meetups/blob/master/03/Photos/1.jpg)](/03/Photos/1.jpg)
 
 
 
